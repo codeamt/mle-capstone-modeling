@@ -44,19 +44,18 @@ The [notebook](https://github.com/codeamt/mle-capstone-modeling/blob/master/mle_
 <img src="https://drive.google.com/uc?export=view&id=1mG-jtWGuEtle06DH8LgZkyboUmsVkdrR" width="50%" />
 
 #### Training Performance Metrics
-<img src="https://drive.google.com/uc?export=view&id=1S6aePVF8kEeXDg0lsDYsKHGLQDRuKeGP" width="50%" />
+<img src="https://drive.google.com/uc?export=view&id=1S6aePVF8kEeXDg0lsDYsKHGLQDRuKeGP" width="70%" />
   
 
   
 ## Experimental Results
 
-
 #### Confusion Matrix
 <img src="https://drive.google.com/uc?export=view&id=17riSuoWBL10PElMVecLOzLQTo73h6z63" width="50%" />
 
 #### Key Metrics on Test Set
-<img src="https://drive.google.com/uc?export=view&id=1_DN9zLf4VpAIzwdxgRbh85newq5xutQx" width="50%" />
+<img src="https://drive.google.com/uc?export=view&id=1_DN9zLf4VpAIzwdxgRbh85newq5xutQx" width="70%" />
 
 #### Benchmark Comparison - Sensitivity and Precision 
-<img src="https://drive.google.com/uc?export=view&id=1yn8bp9FqNpxShQkXxGbiC7R3zub4_W1C" width="50%" />
-<img src="https://drive.google.com/uc?export=view&id=1OiaM3UwCr_SFL0NKBuWMU62-Aa21Omcx" width="50%" />
+<img src="https://drive.google.com/uc?export=view&id=1yn8bp9FqNpxShQkXxGbiC7R3zub4_W1C" width="70%" />
+<img src="https://drive.google.com/uc?export=view&id=1OiaM3UwCr_SFL0NKBuWMU62-Aa21Omcx" width="70%" />
