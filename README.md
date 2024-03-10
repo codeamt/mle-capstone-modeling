@@ -9,7 +9,7 @@ Data modeling submodule for Udacity's Machine Learning Engineering Nanodegree pr
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SL2eCnZYnYd8NCm1xKhEm20mCHjNOhkv?usp=sharing) 
  
 ## Repo Contents
-<img src="https://drive.google.com/uc?export=view&id=13VzZwQerS54SF_6zbJr-_jHAQjqI2W5Z" width="50%" /> 
+<img src="https://drive.google.com/uc?export=view&id=1rR5J2wI2reU0ismYhDwaNhKkGp_t7_mN" width="30%" /> 
 
 #### Packages Used
 ```
